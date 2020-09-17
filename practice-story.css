@@ -15,7 +15,7 @@ article {
 }
 
 h1, h2, h3, h4 {
-  font-family: Ubuntu, 'Ubuntu-Regular';
+  font-family: Ubuntu, 'Ubuntu-Regular', 'Ubuntu-Bold', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1 {
@@ -30,7 +30,7 @@ h2 {
 
 h3 {
   font-size: 1.5rem;
-  margin: 14px 0;
+  margin: 16px 0;
 }
 
 h4 {
