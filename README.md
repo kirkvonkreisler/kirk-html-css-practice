@@ -1,5 +1,5 @@
-# Kirk's HTML Practice Assignment
+# Kirk's HTML & CSS Practice Assignment
 
 By Kirk von Kreisler, UT Austin
 
-Due by August 12, 2020
+Due by August 19, 2020
